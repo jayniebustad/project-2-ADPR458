@@ -1,0 +1,240 @@
+/*
+This CSS resource incorporates links to font software which is the valuable copyrighted
+property of Monotype Imaging and/or its suppliers. You may not attempt to copy, install,
+redistribute, convert, modify or reverse engineer this font software. Please contact Monotype
+Imaging with any questions regarding Web Fonts:  http://www.fonts.com
+*/
+@import url('https://fast.fonts.net/t/1.css?apiType=css&projectid=cb6fa2f6-9a6d-47a2-8765-90f9beebf6b4');
+
+/* Avenir® Next W05 Regular */
+@font-face {
+  font-family: 'Avenir Next Regular';
+  src: url('fonts/f64c3634-1027-4aec-8bd4-d96f2444f559.woff2') format('woff2'),url('fonts/91f23395-35b5-470e-9680-45d860e84f5b.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Avenir® Next W05 Italic */
+@font-face {
+  font-family: 'Avenir Next Italic';
+  src: url('fonts/0f80ea09-8707-444b-a376-ed344302f2d9.woff2') format('woff2'),url('fonts/02a418e2-04df-4d9a-be95-5d6a2851fe40.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Avenir® Next W05 Demi */
+@font-face {
+  font-family: 'Avenir Next Demi';
+  src: url('fonts/8c6d7851-9978-4520-8c8f-dc1b38b36eb6.woff2') format('woff2'),url('fonts/73fd8503-a80c-4965-97ae-a1178b2caad0.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Avenir® Next W05 Demi Italic */
+@font-face {
+  font-family: 'Avenir Next Demi Italic';
+  src: url('fonts/296e79af-9ff5-4136-9548-a432704df310.woff2') format('woff2'),url('fonts/4d28346d-e4bc-4715-aefb-aeabe47c33f0.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Avenir® Next W05 Bold */
+@font-face {
+  font-family: 'Avenir Next Bold';
+  src: url('fonts/9544095b-fbf6-4d50-870f-a5102776eae4.woff2') format('woff2'),url('fonts/7c22a3c2-6fb4-4dbf-9112-53b06942662a.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Avenir® Next W05 Heavy */
+@font-face {
+  font-family: 'Avenir Next Heavy';
+  src: url('fonts/AvenirNextHeavy.woff2') format('woff2'),url('fonts/AvenirNextHeavy.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Avenir® Next W05 Heavy Italic */
+@font-face {
+  font-family: 'Avenir Next Heavy Italic';
+  src: url('fonts/29221c70-1552-4860-b75c-b9b8cdecf67a.woff2') format('woff2'),url('fonts/8451d706-1191-409f-a64c-e36e8aeee7df.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Avenir® Next W04 Condensed Bold */
+@font-face {
+  font-family: 'Avenir Next Condensed Bold';
+  src: url('fonts/cc16bb25-ac7d-4ded-a42f-ca3b3e034bf5.woff2') format('woff2'),url('fonts/50c9f3b3-2847-4045-815c-c4a3f76a3867.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Avenir® Next W05 Condensed Heavy */
+@font-face {
+  font-family: 'Avenir Next Condensed Heavy';
+  src: url('fonts/5dc98a8e-cb38-4f48-8f66-d21060068f35.woff2') format('woff2'),url('fonts/78511227-757a-49b9-b695-7283a6228cfc.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Eurostile LT Demi */
+@font-face{
+  font-family: 'Eurostile LT Demi';
+  src: url('fonts/EurostileLTDemi_normal_normal_subset1.woff2') format('woff2'),url('fonts/EurostileLTDemi_normal_normal_subset1.woff') format('woff');
+  font-style: normal;
+  font-stretch: normal;
+  unicode-range: U+0020-007e,U+00a0-00ff,U+02c6-02c7,U+02c9,U+02d8-02dd,U+2013-2014,U+2018-201a,U+201c-201e,U+2020-2022,U+2026,U+2030,U+2039-203a,U+2044,U+20ac,U+2113,U+2122,U+2126,U+212e;
+}
+
+/* Bookmania W05 Bold */
+@font-face{
+  font-family: 'Bookmania Bold';
+  src: url('fonts/cde39969-ea6c-4473-8df7-6ffd4faaaa9b.woff2') format('woff2'),url('fonts/f5dc1306-28de-43b4-9f54-c61695ddd40d.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Didonesque Bold Custom */
+@font-face {
+  font-family: 'Didonesque Bold';
+  src: url('fonts/DidonesqueW1Bold.woff2') format('woff2'),url('fonts/DidonesqueW1Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Didonesque W05 Bold Italic */
+@font-face {
+  font-family:'Didonesque Bold Italic';
+  src: url('fonts/9108ee94-d9a0-4a40-bdd0-0bdf1ffe2997.woff2') format('woff2'),url('fonts/0c9715c7-7368-4886-9298-088a96cc4fc2.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Cowboy Western W00 Regular */
+@font-face {
+  font-family: 'Cowboy Western';
+  src: url('fonts/59c5aea4-7ee2-4e8e-ba8a-36b173ad665b.woff2') format('woff2'),url('fonts/fa2b1723-d438-4e84-a3b5-9a9552fc6d0d.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Formosa W05 Upright */
+@font-face{
+  font-family: 'Formosa Upright';
+  src: url('fonts/6138d06a-af7f-43d9-8e53-c4c37aed6af5.woff2') format('woff2'),url('fonts/08c2003c-2097-4580-8685-70cf47582311.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Longreach W05 Regular */
+@font-face{
+  font-family: 'Longreach Regular';
+  src: url('fonts/fe2332a4-b113-4046-aea4-539565362ef8.woff2') format('woff2'),url('fonts/a7cd969c-e71c-4d11-be2f-94a9823a966c.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Longreach W05 Italic */
+@font-face{
+  font-family: 'Longreach Italic';
+  src: url('fonts/792651f3-9657-47e6-8f27-02fea9c9e8dd.woff2') format('woff2'),url('fonts/2d01db41-e12d-4f7c-874c-d8ad835530a5.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Univers® W04 49 Light Ultra Condensed */
+@font-face {
+  font-family: 'Univers';
+  src: url('fonts/328dbb69-59fa-4fc7-bc73-58e6995b3219.woff2') format('woff2'),url('fonts/43ea09cd-294d-4476-825d-d7e1fee1d603.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Avenir® Next Bold for Offline V2 */
+@font-face {
+  font-family: 'Avenir Next Bold Offline V2';
+  src: url('fonts/AvenirNextforOfflineW2Bd.woff2') format('woff2'),url('fonts/AvenirNextforOfflineW2Bd.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Avenir® Next Demi Bold for Offline V2*/
+@font-face {
+  font-family: 'Avenir Next Demi Bold Offline V2';
+  src: url('fonts/AvenirNextforOfflineW2DmBd.woff2') format('woff2'),url('fonts/AvenirNextforOfflineW2DmBd.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Shapiro W05 95 Super Wide */
+@font-face {
+  font-family: 'Shapiro Super Wide';
+  src:url('fonts/ShapiroSuperWide.woff2') format('woff2'),url('fonts/ShapiroSuperWide.woff') format('woff');
+  font-weight: 295;
+  font-style: normal;
+}
+
+/* Pump W05 Demi */
+@font-face {
+  font-family: 'Pump Demi';
+  src:url('fonts/PumpDemi.woff2') format('woff2'),url('fonts/PumpDemi.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Bottleneck W05 Regular */
+@font-face {
+  font-family: 'Bottleneck Regular';
+  src:url('fonts/BottleneckRegular.woff2') format('woff2'),url('fonts/BottleneckRegular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Eldon WF */
+@font-face {
+  font-family: 'Eldon WF';
+  src:url('fonts/EldonWF.woff2') format('woff2'),url('fonts/EldonWF.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Type One WF */
+@font-face {
+  font-family: 'Type One WF';
+  src:url('fonts/TypeOneWF.woff2') format('woff2'),url('fonts/TypeOneWF.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Meltdown W05 Regular */
+@font-face {
+  font-family: 'Meltdown W05 Regular';
+  src:url('fonts/MeltdownW05Regular.woff2') format('woff2'),url('fonts/MeltdownW05Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Cotford W05 */
+@font-face {
+  font-family: 'Cotford';
+  src:url('fonts/CotfordW05v1.woff2') format('woff2'),url('fonts/CotfordW05v1.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;  
+}
+
+/* Corbert Wide W05 Heavy Wide */
+@font-face{
+  font-family: 'Corbert Wide Heavy';
+  src:url('fonts/CorbertHeavy.woff2') format('woff2'),url('fonts/CorbertHeavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Corbert Wide W05 Black Wide */
+@font-face{
+  font-family: 'Corbert Wide Black';
+  src:url('fonts/CorbertBlack.woff2') format('woff2'),url('fonts/CorbertBlack.woff') format('woff');
+  font-weight: 950;
+  font-style: normal;
+}
